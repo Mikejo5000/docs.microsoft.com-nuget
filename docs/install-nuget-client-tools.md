@@ -97,8 +97,8 @@ Installation:
 
 ### Related topics
 
-- [Install and manage packages using Visual Studio](consume-packages/install-use-packages-visual-studio.md)
-- [Install and manage packages using PowerShell](consume-packages/install-use-packages-powershell.md)
+- [Install and manage packages using Visual Studio](tools/package-manager-ui.md)
+- [Install and manage packages using Package Manager Console](tools/package-manager-console.md)
 - [Install and manage packages using dotnet CLI](consume-packages/install-use-packages-dotnet-cli.md)
 - [Install and manage packages using nuget.exe CLI](consume-packages/install-use-packages-nuget-cli.md)
 - [Package Manager Console PowerShell reference](reference/powershell-reference.md)
